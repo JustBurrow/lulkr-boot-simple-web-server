@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Index</title>
+</head>
+<body>
+  <h1>Index</h1>
+  <dl>
+    <dt>Instant</dt>
+    <dd th:text="${instant}">instant</dd>
+    <dt>Local Date Time</dt>
+    <dd th:text="${ldt}">ldt</dd>
+    <dt>Zone ID</dt>
+    <dd th:text="${zone}">zone</dd>
+    <dt>Zone Date Time</dt>
+    <dd th:text="${zdt}">zdt</dd>
+  </dl>
+</body>
+</html>
