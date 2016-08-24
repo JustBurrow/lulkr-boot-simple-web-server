@@ -1,7 +1,7 @@
 /**
  * @see https://github.com/JustBurrow/java-lulkr-spring-data-jpa
  */
-package kr.lul.boot.simple.web.server.controller;
+package kr.lul.simple.web.server.controller;
 
 import java.time.Instant;
 import java.time.LocalDateTime;

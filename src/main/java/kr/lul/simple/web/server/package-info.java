@@ -5,4 +5,4 @@
  * @author Just Burrow
  * @since 2016. 8. 23.
  */
-package kr.lul.boot.simple.web.server;
+package kr.lul.simple.web.server;

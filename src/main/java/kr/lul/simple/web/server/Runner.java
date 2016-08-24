@@ -1,7 +1,7 @@
 /**
  * @see https://github.com/JustBurrow/java-lulkr-spring-data-jpa
  */
-package kr.lul.boot.simple.web.server;
+package kr.lul.simple.web.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
